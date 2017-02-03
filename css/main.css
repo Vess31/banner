@@ -30,7 +30,8 @@ div {
 
 .banner {
   position: relative;
-  max-height: inherit;
+  max-height: 24rem;
+  overflow: hidden;
 }
 
 .banner-content {
